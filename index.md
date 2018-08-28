@@ -1,7 +1,9 @@
 # Justin Chen's First CS193 Lab 
-
-
-
+# Favorite things about CS193
+- Taught by students like me!
+- Only 1 class a week
+- GPA boost (hopefully)
+- deals with computer science which is fun!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
